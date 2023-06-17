@@ -1,8 +1,8 @@
-# time PWA universal app for Global search goods
+# time PWA 
+universal app for Global search goods
 
+Object in messages
 Messages in messages
-Contact by request
-Contact by yourself
 
 Less code
 
