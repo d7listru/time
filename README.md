@@ -1,11 +1,11 @@
 # time PWA 
-universal app for Global search services and goods
+universal notepad app
 
-it's vulnerabilities free
+vulnerabilities free
 one page wish global search list goods
-instant transfer property owner proof
+and transfer property owner proof
 
-Messages via autorespond
+autorespond Messages
 
 s>c>r
 
