@@ -1,8 +1,13 @@
 # time PWA 
 universal app for Global search services and goods
 
-1. Object in messages
-2. Messages in messages
+it's vulnerabilities free
+one page wish global search list goods
+instant transfer property owner proof
 
-Less code
+Messages via autorespond
+
+s>c>r
+
+
 
